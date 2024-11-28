@@ -1,3 +1,4 @@
+print('Функция соединения Hello World')
 def func():
     str_one = 'Hello '
     str_two = 'World'
