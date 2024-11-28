@@ -4,3 +4,5 @@ def func():
     str_all = str_one + str_two
     print(str_all)
 func()
+
+print('Hello World 2')
